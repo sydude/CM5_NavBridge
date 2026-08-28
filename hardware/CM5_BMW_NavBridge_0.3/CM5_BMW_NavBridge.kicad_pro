@@ -253,7 +253,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "0.1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -911,7 +911,7 @@
       {
         "filename": "CM5_BMW_NavBridge.kicad_sch",
         "name": "CM5_BMW_NavBridge",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "30f4fbbf-bdc9-449a-a231-a876d45881e8"
       }
     ],
     "used_designators": "",
@@ -920,15 +920,11 @@
   "sheets": [
     [
       "30f4fbbf-bdc9-449a-a231-a876d45881e8",
-      "Root"
+      "CM5_BMW_NavBridge"
     ],
     [
       "41377485-548f-46d6-aa06-7899b6df78a0",
       "Power"
-    ],
-    [
-      "74e681e0-5ed8-480b-8278-8c53afbdb937",
-      "Analog_RGsB"
     ],
     [
       "afdd55ad-f792-47f9-86a1-02d6fa926230",
