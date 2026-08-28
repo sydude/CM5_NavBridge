@@ -1,6 +1,7 @@
 # macOS
 .DS_Store
 .history
+*.zip
 
 # KiCad local/user-specific files
 *.kicad_prl
